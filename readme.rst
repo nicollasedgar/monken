@@ -20,8 +20,8 @@ User
 version
 **************************
 
-database version	:	10.4.19-MariaDB - mariadb.org binary distribution
-php version				: PHP 8.0.9
+-database version	:	10.4.19-MariaDB - mariadb.org binary distribution
+-php version		: PHP 8.0.9
 
 *******************
 Framework
