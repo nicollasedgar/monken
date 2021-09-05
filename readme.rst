@@ -11,6 +11,7 @@ User
 -Super admin
 	username 	: superadmin@gmail.com
 	password	:	123123123
+	
 -Admin
 	username	:	tambang1@gmail.com
 	password	:	123123123
